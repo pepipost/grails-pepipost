@@ -8,7 +8,7 @@ Groovy is a Java-syntax-compatible object-oriented programming language for the 
 
 ### How i can contribute ?
 
-You can go thorugh [this](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/) wonderful article which will show how you can contribute to Open source github project step by step.
+You can go thorugh [this](https://medium.com/@jenweber/your-first-open-source-contribution-a-step-by-step-technical-guide-d3aca55cc5a6) wonderful article which will show how you can contribute to Open source github project step by step.
 
 ### How i can integrate with Pepipost ?
 
